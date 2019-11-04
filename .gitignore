@@ -194,5 +194,4 @@ fabric.properties
 
 
 # Under the .idea/ directory
-.idea/workspace.xml
 .idea/aws.xml
